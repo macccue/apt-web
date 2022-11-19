@@ -110,6 +110,7 @@ body {
 
 .hero__paragraph {
     margin-bottom: 20px;
+    color:#FFF;
 }
 
 .cta {
@@ -175,6 +176,7 @@ body {
 .knowledge__texts{
     height: 5px;
     color: #FFF;
+    width: 100%;
 }
 
 .knowledge__video{
